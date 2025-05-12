@@ -8,7 +8,7 @@
 	border-top: 2px solid white;
 }
 
-.page {
+#page {
 	background-color: #000000;
 	flex: 1;
 }
